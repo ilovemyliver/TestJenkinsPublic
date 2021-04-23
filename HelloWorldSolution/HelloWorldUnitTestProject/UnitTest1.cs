@@ -7,7 +7,7 @@ namespace HelloWorldUnitTestProject
     [TestClass]
     public class UnitTest1
     {
-        private const string Expected = "Hello World!";
+        private const string Expected = "Hello Johnny!";
         [TestMethod]
         public void TestMethod1()
         {
